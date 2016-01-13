@@ -235,7 +235,7 @@ and voila, you have your subsets!
 
 ----
 
-Challenge question: can you rename all of your files in subset/ to
+Challenge exercise: can you rename all of your files in subset/ to
 have 'subset.fq' at the end?
 
 (Work in small groups; start from working code; there are several ways
@@ -487,3 +487,19 @@ to group conditions::
 ...so it's basically all programming...
 
 Note that you can 'exec' a Python, R, or shell script.
+
+Challenge exercise: how would you copy all files containing a specific string
+('CGTTATCCGGATTTATTGGGTTTA', say) into a new directory? And what are the
+pros (and cons) of your approach?
+
+(Work in small groups; start from working code, say, the 'find'
+command above; there are several ways to do it, all that matters is
+getting there.)
+
+Things I forgot to talk about
+-----------------------------
+
+* sort (and sort -n)
+* grep
+* wc
+* special characters and tricky filenames
