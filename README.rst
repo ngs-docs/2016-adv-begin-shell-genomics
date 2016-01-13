@@ -1,5 +1,28 @@
-(We'll starting at the end of `the shell genomics lesson
-<https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst>`__.)
+Advanced Beginner/Intermediate Shell
+====================================
+
+Learning goals:
+
+* expose you to a bunch of syntax
+* show you the possibilities
+* give you some useful tricks
+
+Points to make:
+
+* almost everything we'll do today has existed since 70s or 80s
+  - so pre-Python & R.
+* I learn new things every year ('set -e', for example)
+* For me, anything more complicated than what is below => Python
+  (easier to test, handle errors, etc.)
+
+Also note! "Data Therapy sessions 3-5pm Wed, in the Shields
+Library/Data Science Initiative space (3rd floor, old
+"Intergovernmental Affairs" space). Keurig will be provided
+
+-----
+
+We'll starting at the end of `the shell genomics lesson
+<https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst>`__.
 
 Make sure you have the test data! Download and unpack::
 
@@ -209,6 +232,12 @@ If that command looks right, run it for realz::
 and voila, you have your subsets!
 
 ----
+
+Challenge question: can you rename all of your files in subset/ to
+have 'subset.fq' at the end?
+
+(Work in small groups; start from working code; there are several ways
+to do it, all that matters is getting there.)
 
 Some backtracking
 -----------------
@@ -454,3 +483,5 @@ to group conditions::
   find . \( \( -type f -size +100k \) -o \( -type f -size -1k \) \)  -print
   
 ...so it's basically all programming...
+
+Note that you can 'exec' a Python, R, or shell script.
