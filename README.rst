@@ -384,7 +384,7 @@ exit status of a script with ``quit(status=0, save='no')`` and in
 Python with ``sys.exit(0)``.  Any failure of the script due to an
 exception will automatically set the exit status to non-zero.
 
-The exit status of the previous command can be examined with ``$?`` --
+The exit status of the previous command can be examined with ``$?`` -- ::
 
   ./success.sh
   if [ $? -eq 0 ]; then echo succ; fi
