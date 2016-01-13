@@ -354,7 +354,7 @@ and in 'fail.sh', put::
   echo mefail
   exit 1
 
-You can do this with 'heredocs' --
+You can do this with 'heredocs' -- ::
 
   cat > success.sh <<EOF
   #! /bin/bash
@@ -367,7 +367,7 @@ You can do this with 'heredocs' --
   exit 1
   EOF
 
-Now make them executable --
+Now make them executable -- :
 
   chmod +x success.sh fail.sh
 
