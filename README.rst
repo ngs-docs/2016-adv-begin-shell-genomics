@@ -367,7 +367,7 @@ You can do this with 'heredocs' -- ::
   exit 1
   EOF
 
-Now make them executable -- :
+Now make them executable -- ::
 
   chmod +x success.sh fail.sh
 
