@@ -21,6 +21,9 @@ Also note! "Data Therapy sessions 3-5pm Wed, in the Shields
 Library/Data Science Initiative space (3rd floor, old
 "Intergovernmental Affairs" space). Keurig will be provided
 
+More note! "The Hacker Within" starts tomorrow, same location -
+http://www.thehackerwithin.org/davis/.
+
 -----
 
 We'll starting at the end of `the shell genomics lesson
