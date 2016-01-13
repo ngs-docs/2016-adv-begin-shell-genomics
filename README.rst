@@ -503,3 +503,8 @@ Things I forgot to talk about
 * grep
 * wc
 * special characters and tricky filenames
+
+Other notes
+-----------
+
+Google (and especially stackoverflow) is your friend.
