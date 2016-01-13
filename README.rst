@@ -3,17 +3,19 @@ Advanced Beginner/Intermediate Shell
 
 Learning goals:
 
-* expose you to a bunch of syntax
-* show you the possibilities
-* give you some useful tricks
+* expose you to a bunch of syntax around shell use & scripting.
+* show you the proximal possibilities of shell use & scripting.
+* give you some useful tricks!
+* provide fodder for discussion, so please ask questions!
 
 Points to make:
 
 * almost everything we'll do today has existed since 70s or 80s
   - so pre-Python & R.
-* I learn new things every year ('set -e', for example)
+* I use almost everything below on a ~weekly basis.
+* I learn new things every year ('set -e', for example).
 * For me, anything more complicated than what is below => Python
-  (easier to test, handle errors, etc.)
+  (easier to test, handle errors, etc.).
 
 Also note! "Data Therapy sessions 3-5pm Wed, in the Shields
 Library/Data Science Initiative space (3rd floor, old
