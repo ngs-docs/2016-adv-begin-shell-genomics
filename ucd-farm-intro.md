@@ -45,7 +45,7 @@ With nano (or your editor of choice), make a new file `count_reads.sh` and use t
 #SBATCH -t 2:00:00
 #SBATCH -N 1
 #SBATCH -n 1
-#SBATHC -p high
+#SBATCH -p high
 #SBATCH -c 4
 #SBATCH --mem=16000
 
