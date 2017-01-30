@@ -278,6 +278,7 @@ To redirect stdin and stdout, you can use::
   > - send stdout to a file
   < - take stdin from a file
   | - take stdout from first command and make it stdin for second command
+  >> - appends stdout to a previously-existing file
 
 stderr (errors) can be redirected::
 
