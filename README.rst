@@ -17,12 +17,9 @@ Points to make:
 * For me, anything more complicated than what is below => Python
   (easier to test, handle errors, etc.).
 
-Also note! "Data Therapy" sessions 3-5pm Wed, in the Shields
-Library/Data Science Initiative space (3rd floor, old
-"Intergovernmental Affairs" space). Keurig will be provided
-
-More note! "The Hacker Within" starts tomorrow, same location -
-http://www.thehackerwithin.org/davis/.
+Also note! "Data Therapy" sessions 3-5pm Wed, in the Center for
+Companion Animal Health (Bennett Room, 2nd floor, CCAH).
+Keurig will be provided
 
 -----
 
@@ -37,7 +34,11 @@ and set your current working directory to be the top level dir, 'data/'.
 
 We'll be posting code snippets to::
 
-   https://etherpad.wikimedia.org/p/2016-davis-advb-shell
+   https://public.etherpad-mozilla.org/p/2017-jan-adv-beginner-shell
+
+Lisa Cohen will also be talking about HPC qsub scripts:
+
+   https://github.com/ngs-docs/2016-adv-begin-shell-genomics/blob/master/ucd-farm-intro.md
 
 ----
 
