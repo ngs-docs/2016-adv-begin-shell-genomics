@@ -110,4 +110,4 @@ source ~/.bashrc
 * [Node info for farm](http://stats.cse.ucdavis.edu/ganglia/?c=Agri&m=load_one&r=hour&s=descending&hc=4&mc=2)
 * https://wiki.cse.ucdavis.edu/support/systems/farm
 * https://github.com/WhiteheadLab/Lab_Wiki/wiki/Using-the-farm-cluster
-* https://github.com/RILAB/lab-docs/wiki/Using-Farm
+* https://github.com/RILAB/lab-docs/wiki/Farm-Usage
